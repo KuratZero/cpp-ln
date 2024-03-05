@@ -1,1 +1,4 @@
-# Test status in Github.Actions: [![BuildTest](../../actions/workflows/buildtest.yaml/badge.svg?branch=main&event=workflow_dispatch)](../../actions/workflows/buildtest.yaml)
+# Реализация класса LN - LongNumbers
+
+В данном репозитории представлена реализация класса LN - Long Numbers, 
+поддерживающая все основные операции (сумма, разность, умножение, деление, остаток, а также вычисление квадратного корня).
